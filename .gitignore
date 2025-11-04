@@ -1,0 +1,11 @@
+#dependecies
+node_modules/
+
+#build
+dist/
+build/
+
+#misc
+.env
+*.log
+
